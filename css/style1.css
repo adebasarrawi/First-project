@@ -1,0 +1,18 @@
+#formd{
+    margin-left: 20px;
+}
+td ,th {
+    border: 1px solid black;
+}
+#Drinks{
+    padding-left: 20px;
+}
+#border{
+    border: 0.5px groove black;
+    padding: 30px;
+    display: inline-block;
+ 
+}
+#lan{
+    width: 70px;
+}

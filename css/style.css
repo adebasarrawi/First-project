@@ -47,3 +47,26 @@ td{
     width: 100%;
     tr:nth-child(even) {background-color: #cccccc;}
 }
+
+#coding{
+    background-color: rgb(113, 76, 192);
+    width: 900px;
+}
+#Academy{
+    color: white;
+    margin: 0px;
+ 
+}
+#back{
+    background-color:rgb(25, 25, 74);
+    width: 500px;
+   margin: 30px 0px 0px 200px;
+   padding: 20px 0px 20px 20px;
+}
+#but{
+    width: 465px;
+    height: 30px;
+    background-color: rgb(88, 197, 128);
+    color: white;
+}
+
